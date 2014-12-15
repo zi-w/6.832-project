@@ -5,7 +5,7 @@ This repository contains the code for trajectory optimization for underactuated 
 
 The simulation results are partially available here http://people.csail.mit.edu/ziw/6.832/.
 
-To run the matlab files, Drake [4] and CVX [3] are required to be installed. An example showing how to run trajectory optimization with our code is shown in run_nlink.m. run_nlink.m should be put into the directory in drake, drake/examples/PlanarNLink/, together with the functions we provided.
+To run the matlab files, Drake [4] and CVX [3] are required to be installed. An example showing how to run trajectory optimization with our code is shown in run_nlink.m. run_nlink.m should be put into the directory in drake, drake/examples/PlanarNLink/.
  
 References
 [1] J. Schulman, Y. Duan, J. Ho, A. Lee, I. Awwal, H. Bradlow, J. Pan,
